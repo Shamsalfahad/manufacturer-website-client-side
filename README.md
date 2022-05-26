@@ -10,4 +10,5 @@
 ## ⚪ Can delete products.
 ## ⚪ You can register and then you can login your self.
 ## ⚪ Also has JWT.
+## ⚪ Also has dashboard.
 ## ⚪ Lastly it has payment method.
