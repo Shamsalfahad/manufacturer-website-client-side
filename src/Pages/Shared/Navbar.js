@@ -79,7 +79,7 @@ const Navbar = () => {
           </ul>
         </div>
         <a className="m-0 lg:ml-20 btn btn-ghost normal-case text-xl">
-          Tools-ware
+        🛠 Tools-ware
         </a>
       </div>
       <div className="navbar-end hidden lg:flex justify-end lg:ml-[500px]">
