@@ -15,7 +15,7 @@ const Portfolio = () => {
           />
           <div className="lg:p-20">
             <div className="">
-              <h1 class="text-5xl font-bold">Hi I am Shams Al Fahad</h1>
+              <h1 class="text-5xl font-bold">Hi I am Shams Al Fahad 😄</h1>
               <p class="py-6">
                 Student of{" "}
                 <a className="text-blue-500" href="https://smuct.edu.bd/">
