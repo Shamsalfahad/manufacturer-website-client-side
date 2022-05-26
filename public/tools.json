@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Pneumatic Nailer",
+    "img": "https://enovathemes.com/equipo/wp-content/uploads/cat2-p-3-300x300.jpg",
+    "desc": "Duo-Fast Industrial Pneumatic Nailer with DuoGlide Roller Base with Mallet",
+    "min_order_quantity": 20,
+    "available_quantity": 1200,
+    "price": "$ 99 /pu"
+  },
+  {
+    "name": "Portable Compressor",
+    "img": "https://enovathemes.com/equipo/wp-content/uploads/p2-1-300x300.jpg",
+    "desc": "DEWALT 1.6 HP, 15 Gallon, Portable Workshop Compressor",
+    "min_order_quantity": 15,
+    "available_quantity": 130,
+    "price": "$ 129 /pu"
+  },
+  {
+    "name": "Air Compressor",
+    "img": "https://enovathemes.com/equipo/wp-content/uploads/p3-1-300x300.jpg",
+    "desc": "Rol-Air 6-1/2 HP Belt Drive Twin Tank Gas-Powered Air Compressor",
+    "min_order_quantity": 8,
+    "available_quantity": 59,
+    "price": "$ 123 /pu"
+  },
+  {
+    "name": "Finish Nailer",
+    "img": "https://enovathemes.com/equipo/wp-content/uploads/cat2-p-5-300x300.jpg",
+    "desc": "Hitachi / Metabo HPT 16 Gauge Pneumatic Finish Nailer with Air Duster",
+    "min_order_quantity": 18,
+    "available_quantity": 212,
+    "price": "$ 121 /pu"
+  },
+  {
+    "name": "Pipe cutter ",
+    "img": "https://enovathemes.com/equipo/wp-content/uploads/cat4-p-5-300x300.jpg",
+    "desc": "Milwaukee 1-5/8 Ratcheting Pipe Cutter easy to use",
+    "min_order_quantity": 24,
+    "available_quantity": 400,
+    "price": "$ 79 /pu"
+  },
+  {
+    "name": "Multi Tool ",
+    "img": "https://enovathemes.com/equipo/wp-content/uploads/cat5-p1-300x300.jpg",
+    "desc": "Klein Tools Electrician’s Hybrid Plier Multi-Tool",
+    "min_order_quantity": 12,
+    "available_quantity": 75,
+    "price": "$ 69 /pu"
+  }
+]
