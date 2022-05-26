@@ -5,7 +5,7 @@ const Loading = () => {
     <div>
       <img
         className="mx-auto mt-[-50px]"
-        src="https://img.pikbest.com/png-images/20190918/cartoon-snail-loading-loading-gif-animation_2734139.png!c1024wm0"
+        src="https://assets.materialup.com/uploads/c6980863-d7bf-41a6-9272-b6e2465b60c2/attachment.gif"
         alt=""
       />
     </div>
