@@ -21,7 +21,7 @@ const BusinessSummary = () => {
                     We Served 300+ Customers
                   </h2>
                   <p className="text-primary font-thin">
-                  We always try to do our best to serve our customer.
+                  We always try to do our best to serve our customer 👨‍🔧👨‍💼🧑‍💻.
                   </p>
                   <div className="card-actions justify-end"></div>
                 </div>
@@ -37,7 +37,7 @@ const BusinessSummary = () => {
                     200M+ Annual Revenue
                   </h2>
                   <p className="text-primary font-thin">
-                  We always try to do our best to serve our customer.
+                  We always try to do our best to serve our customer 👨‍🔧👨‍💼🧑‍💻.
                   </p>
                   <div className="card-actions justify-end"></div>
                 </div>
@@ -51,7 +51,7 @@ const BusinessSummary = () => {
                   />
                   <h2 className="card-title text-primary">40K+ Reviews</h2>
                   <p className="text-primary font-thin">
-                  We always try to do our best to serve our customer.
+                  We always try to do our best to serve our customer 👨‍🔧👨‍💼🧑‍💻.
                   </p>
                   <div className="card-actions justify-end"></div>
                 </div>
@@ -65,7 +65,7 @@ const BusinessSummary = () => {
                   />
                   <h2 className="card-title text-primary">70+ tools</h2>
                   <p className="text-primary font-thin">
-                  We always try to do our best to serve our customer.
+                  We always try to do our best to serve our customer 👨‍🔧👨‍💼🧑‍💻.
                   </p>
                   <div className="card-actions justify-end"></div>
                 </div>
